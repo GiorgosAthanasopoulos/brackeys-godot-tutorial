@@ -4,3 +4,4 @@ Simple platformer game made in godot by following brackey's brand new godot tuto
 ## Extra stuff I have added
 - Jump sound effect (audiostreamplayer node in player scene, call .play in _process of player script when jumping),
 - Death sound effect (audiostreamplayer node in killzone scene, call .play in _on_body_entered of killzone script before starting timer).
+- [75%] Player can kill enemies by jumping and landing on top of them.
